@@ -5,7 +5,7 @@ As a software engineer with 2 years of experience, I'm passionate about creating
 
 * 🌍  I'm based in Tucson, AZ
 * ✉️  You can contact me at [phillipsussman@gmail.com](mailto:phillipsussman@gmail.com)
-* 🧠  I'm learning C++
+* 🧠  Currently I'm learning C++
 
 ### Skills
 
