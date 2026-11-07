@@ -1,6 +1,6 @@
 ## Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" /> I'm Phillip Sussman
 
-Software Developer based in Tucson, AZ. I spent about two and a half years supporting Caterpillar's MineStar mining technology, first through TEKsystems and then direct. I worked Tier 2 issues on Windows servers, SQL databases, and networks, and built C# tools like Entity Framework via Visual Studios 2026, PowerShell scripts, and a Salesforce API integration for the support team. Before that, I spent six years in the Air Force as an A-10 armament systems technician.
+Software Developer based in Tucson, AZ. I spent about two and a half years supporting Caterpillar's MineStar mining technologies. I worked Tier 2 issues on Windows servers, SQL databases, and networks, and built C# tools like Entity Framework via Visual Studios 2026, PowerShell scripts, and a Salesforce API integration for the support team. Before that, I spent six years in the Air Force as an A-10 armament systems technician.
 
 * 🌍 Based in Tucson, AZ
 * ✉️ Reach me at [phillipsussman@gmail.com](mailto:phillipsussman@gmail.com)
